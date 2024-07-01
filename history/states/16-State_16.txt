@@ -1,0 +1,13 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		77 91 703 704 927 1682 2876 3103 3109 3116 3138 
+	}
+	history={
+		owner = NVA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

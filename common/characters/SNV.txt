@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Makar Ignatiev
+makar_ignatiev = {
+	name = makar_ignatiev
+	portraits = {
+		civilian = {
+			#Custom image for Makar Ignatiev
+			large = "/gfx/leaders/SNV/LRFdZEgO-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+}

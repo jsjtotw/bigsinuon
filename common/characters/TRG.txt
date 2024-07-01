@@ -1,0 +1,65 @@
+characters = {
+#Create country leader - Moyai
+moyai = {
+	name = moyai
+	portraits = {
+		civilian = {
+			#Custom image for Moyai
+			large = "/gfx/leaders/TRG/UgrJpbBL-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = {  }
+	}
+}
+
+#Create country leader - Aleksandr Isaev
+aleksandr_isaev = {
+	name = aleksandr_isaev
+	portraits = {
+		civilian = {
+			#Custom image for Aleksandr Isaev
+			large = "/gfx/leaders/TRG/ijHxpckX-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = leninism
+		traits = {  }
+	}
+}
+
+#Create country leader - Leonid Kovalchuk
+leonid_kovalchuk = {
+	name = leonid_kovalchuk
+	portraits = {
+		civilian = {
+			#Custom image for Leonid Kovalchuk
+			large = "/gfx/leaders/TRG/GlnqyEoJ-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = conservatism
+		traits = {  }
+	}
+}
+
+#Create country leader - Anya Morozova
+anya_morozova = {
+	name = anya_morozova
+	portraits = {
+		civilian = {
+			#Custom image for Anya Morozova
+			large = "/gfx/leaders/TRG/acQGiCEu-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+}

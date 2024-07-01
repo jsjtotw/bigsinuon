@@ -1,0 +1,13 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		671 843 909 1068 1354 1402 1591 2087 2119 2201 2468 2542 2718 2924 3200 3212 3217 3220 3228 3243 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

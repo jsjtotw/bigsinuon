@@ -1,0 +1,18 @@
+
+state={
+	id=131
+	name="STATE_131"
+
+	history={
+		owner = WRF
+
+	}
+
+	provinces={
+		85 115 163 240 254 748 818 826 1058 1191 1334 1366 1385 1534 1582 1773 1879 2014 2196 2218 2243 2325 2326 2395 2400 2646 2665 2709 2875 2967 2975 3014 3564 3565 3569 3575 3576 3580 3581 3588 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

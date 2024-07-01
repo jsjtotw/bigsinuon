@@ -1,0 +1,13 @@
+state={
+	id=182
+	name="STATE_182"
+	provinces={
+		281 813 923 981 1177 1559 1592 1780 1896 1918 1940 2023 2069 2088 2115 2338 2357 2571 2971 2986 3720 3730 3732 3745 3746 3764 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

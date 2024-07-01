@@ -1,0 +1,13 @@
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		558 901 3665 3668 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

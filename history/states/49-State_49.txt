@@ -1,0 +1,18 @@
+
+state={
+	id=49
+	name="STATE_49"
+
+	history={
+		owner = SNV
+
+	}
+
+	provinces={
+		50 135 317 377 401 525 1430 1517 1681 2040 2130 2273 2316 2508 2579 2770 2929 3171 3173 3197 3206 3208 3215 3245 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

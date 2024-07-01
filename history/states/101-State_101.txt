@@ -1,0 +1,18 @@
+
+state={
+	id=101
+	name="STATE_101"
+
+	history={
+		owner = GGR
+
+	}
+
+	provinces={
+		169 231 288 400 440 829 872 893 1101 1323 1418 1438 1524 1733 1811 1996 2071 2098 2140 2142 2440 2659 2817 2832 2889 3453 3456 3459 3463 3464 3471 3472 3478 3479 3485 3486 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

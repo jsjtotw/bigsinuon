@@ -1,0 +1,13 @@
+state={
+	id=186
+	name="STATE_186"
+	provinces={
+		36 142 517 611 756 809 911 1221 2315 2915 2930 3723 3752 3754 3757 3766 3768 3772 3778 3808 
+	}
+	history={
+		owner = GGS
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

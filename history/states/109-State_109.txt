@@ -1,0 +1,13 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		13 321 389 418 560 789 877 979 1157 1252 1432 1510 2132 2259 2312 2497 2676 2821 2951 3482 3487 3493 3494 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

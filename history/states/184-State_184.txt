@@ -1,0 +1,13 @@
+state={
+	id=184
+	name="STATE_184"
+	provinces={
+		37 65 468 502 536 828 1041 1199 1227 1657 1731 1815 1829 1901 1966 2563 2638 2801 3034 3742 3751 3784 3811 
+	}
+	history={
+		owner = CST
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

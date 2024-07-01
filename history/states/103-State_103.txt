@@ -1,0 +1,13 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		102 177 567 682 1007 1285 1629 1645 1661 1944 1986 2257 2380 2566 2594 3440 3452 3467 3468 3473 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

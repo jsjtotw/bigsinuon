@@ -1,0 +1,13 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		30 55 203 221 345 402 561 621 851 918 1236 1567 2143 2230 2573 2616 2890 3123 3127 3128 3131 3133 3140 3150 
+	}
+	history={
+		owner = SNV
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

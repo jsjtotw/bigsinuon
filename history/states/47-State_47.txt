@@ -1,0 +1,13 @@
+state={
+	id=47
+	name="STATE_47"
+	provinces={
+		885 1519 1970 3195 3205 3207 
+	}
+	history={
+		owner = SNV
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

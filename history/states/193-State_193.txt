@@ -1,0 +1,13 @@
+state={
+	id=193
+	name="STATE_193"
+	provinces={
+		239 329 349 413 715 746 1065 1090 1258 1483 1554 1577 1617 1756 1800 1848 1858 2037 2133 2161 2212 2301 2485 2491 2517 2541 2568 2600 2741 3045 3767 3787 3792 3806 3832 
+	}
+	history={
+		owner = CST
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

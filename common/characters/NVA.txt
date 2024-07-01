@@ -1,0 +1,49 @@
+characters = {
+#Create country leader - Fuhldr Deosufbasc
+fuhldr_deosufbasc = {
+	name = fuhldr_deosufbasc
+	portraits = {
+		civilian = {
+			#Custom image for Fuhldr Deosufbasc
+			large = "/gfx/leaders/NVA/azKNrFZA-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = fascism_ideology
+		traits = {  }
+	}
+}
+
+#Create country leader - Fragofna Searwdomi
+fragofna_searwdomi = {
+	name = fragofna_searwdomi
+	portraits = {
+		civilian = {
+			#Custom image for Fragofna Searwdomi
+			large = "/gfx/leaders/NVA/XyvMAZGW-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = centrism
+		traits = {  }
+	}
+}
+
+#Create country leader - Laorna Dewescaf
+laorna_dewescaf = {
+	name = laorna_dewescaf
+	portraits = {
+		civilian = {
+			#Custom image for Laorna Dewescaf
+			large = "/gfx/leaders/NVA/oTrUZhXt-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = liberalism
+		traits = {  }
+	}
+}
+}

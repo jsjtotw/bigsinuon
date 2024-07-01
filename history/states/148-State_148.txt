@@ -1,0 +1,18 @@
+
+state={
+	id=148
+	name="STATE_148"
+
+	history={
+		owner = GGS
+
+	}
+
+	provinces={
+		206 318 368 370 779 805 1064 1244 1677 1708 2190 2366 2723 2769 3649 3659 3669 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

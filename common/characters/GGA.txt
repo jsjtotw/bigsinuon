@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Kazimir Kuznetsov
+kazimir_kuznetsov = {
+	name = kazimir_kuznetsov
+	portraits = {
+		civilian = {
+			#Custom image for Kazimir Kuznetsov
+			large = "/gfx/leaders/GGA/GeEbfCov-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+}

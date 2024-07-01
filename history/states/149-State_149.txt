@@ -1,0 +1,13 @@
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		906 931 1067 2150 2189 2209 3637 3645 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

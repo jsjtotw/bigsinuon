@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Gerasim Orlov
+gerasim_orlov = {
+	name = gerasim_orlov
+	portraits = {
+		civilian = {
+			#Custom image for Gerasim Orlov
+			large = "/gfx/leaders/GGR/qIrXxsSg-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+}

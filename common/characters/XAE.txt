@@ -1,0 +1,33 @@
+characters = {
+#Create country leader - Thyat Szczolla
+thyat_szczolla = {
+	name = thyat_szczolla
+	portraits = {
+		civilian = {
+			#Custom image for Thyat Szczolla
+			large = "/gfx/leaders/XAE/izrldSoP-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = marxism
+		traits = {  }
+	}
+}
+
+#Create country leader - Kvainoe Kyanese
+kvainoe_kyanese = {
+	name = kvainoe_kyanese
+	portraits = {
+		civilian = {
+			#Custom image for Kvainoe Kyanese
+			large = "/gfx/leaders/XAE/qUcJXFnw-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = conservatism
+		traits = {  }
+	}
+}
+}

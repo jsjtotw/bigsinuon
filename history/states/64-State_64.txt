@@ -1,0 +1,18 @@
+
+state={
+	id=64
+	name="STATE_64"
+
+	history={
+		owner = TRB
+
+	}
+
+	provinces={
+		283 308 344 350 884 942 1158 1304 1436 1831 1847 1991 2403 2621 2886 3287 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

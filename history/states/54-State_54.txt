@@ -1,0 +1,18 @@
+
+state={
+	id=54
+	name="STATE_54"
+
+	history={
+		owner = SNV
+
+	}
+
+	provinces={
+		1 123 183 205 256 284 327 392 479 669 727 744 888 966 1016 1241 1551 1668 1704 1971 2501 2524 2818 2994 3049 3229 3247 3266 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

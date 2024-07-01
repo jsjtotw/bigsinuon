@@ -1,0 +1,18 @@
+
+state={
+	id=204
+	name="STATE_204"
+
+	history={
+		owner = GGS
+
+	}
+
+	provinces={
+		94 96 270 473 761 883 937 1141 1274 1417 1790 1886 1982 2848 2922 3849 3852 3857 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

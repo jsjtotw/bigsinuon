@@ -1,0 +1,13 @@
+state={
+	id=81
+	name="STATE_81"
+	provinces={
+		384 619 738 887 913 978 1040 1271 1425 1846 2578 2689 2860 2884 3340 3358 3361 
+	}
+	history={
+		owner = GGA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

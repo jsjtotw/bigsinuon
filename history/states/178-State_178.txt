@@ -1,0 +1,13 @@
+state={
+	id=178
+	name="STATE_178"
+	provinces={
+		1547 1631 1748 1786 2079 2221 2293 2809 3715 3721 3739 3756 
+	}
+	history={
+		owner = GGS
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

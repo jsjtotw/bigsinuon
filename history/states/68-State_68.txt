@@ -1,0 +1,13 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		150 162 323 969 1127 1269 1429 1603 2402 2532 2548 2701 2825 3261 3282 3292 
+	}
+	history={
+		owner = GGA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

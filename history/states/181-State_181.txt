@@ -1,0 +1,13 @@
+state={
+	id=181
+	name="STATE_181"
+	provinces={
+		41 88 134 983 1154 1174 1187 1364 1492 1515 1821 2900 3042 3736 3738 3741 3750 3761 3770 
+	}
+	history={
+		owner = XAE
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

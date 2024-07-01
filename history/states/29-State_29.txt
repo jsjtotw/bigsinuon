@@ -1,0 +1,18 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = NVA
+
+	}
+
+	provinces={
+		71 103 122 258 260 521 945 982 1123 1203 1741 2020 2033 2044 2520 3019 3149 3164 3169 3187 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

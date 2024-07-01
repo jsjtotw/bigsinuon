@@ -1,0 +1,18 @@
+
+state={
+	id=21
+	name="STATE_21"
+
+	history={
+		owner = NVA
+
+	}
+
+	provinces={
+		60 78 119 251 352 806 1022 1035 1201 1330 1412 1521 1922 2068 2241 2486 2598 2641 2657 2752 2820 3036 3115 3120 3129 3143 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=139
+	name="STATE_139"
+
+	history={
+		owner = GGR
+
+	}
+
+	provinces={
+		575 602 657 693 819 950 1075 1134 1292 1350 1491 1593 1623 1625 1636 2182 2285 2458 2729 2782 2786 3041 3596 3602 3606 3609 3620 3622 3634 3635 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		373 709 753 1295 1895 1938 2941 3613 3624 3632 
+	}
+	history={
+		owner = GGR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

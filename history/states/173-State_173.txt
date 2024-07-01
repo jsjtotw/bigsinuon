@@ -1,0 +1,13 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		276 633 951 1376 1626 2539 3711 3725 3731 
+	}
+	history={
+		owner = XAE
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

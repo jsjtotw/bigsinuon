@@ -1,0 +1,13 @@
+state={
+	id=72
+	name="STATE_72"
+	provinces={
+		48 448 471 732 848 940 1013 1307 1312 1380 1843 1883 2002 2151 2183 2247 2432 2529 2547 2694 2712 2715 2901 2976 3020 3284 3297 3312 3341 3344 
+	}
+	history={
+		owner = GGA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

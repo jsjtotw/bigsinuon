@@ -1,0 +1,13 @@
+state={
+	id=223
+	name="STATE_223"
+	provinces={
+		61 215 241 341 441 465 729 934 1176 1270 1381 1486 1561 1804 1979 2300 2469 2504 2551 2553 2635 2667 2679 2705 2906 3886 3893 3913 3928 3937 3954 3958 3965 3976 3996 
+	}
+	history={
+		owner = CRE
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

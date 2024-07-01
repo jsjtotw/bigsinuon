@@ -1,0 +1,13 @@
+state={
+	id=106
+	name="STATE_106"
+	provinces={
+		75 129 198 229 319 449 481 850 870 907 1060 1150 1172 1442 1604 1724 2074 2077 2359 2505 2811 2972 3001 3060 3495 3498 
+	}
+	history={
+		owner = GGR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

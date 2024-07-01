@@ -1,0 +1,13 @@
+state={
+	id=202
+	name="STATE_202"
+	provinces={
+		124 609 935 1198 1242 1248 1396 1635 1726 1823 1987 2272 2289 2480 2625 2670 2908 3790 3801 3834 3836 3848 3851 3859 3866 3867 
+	}
+	history={
+		owner = GGS
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

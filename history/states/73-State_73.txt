@@ -1,0 +1,13 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		47 132 445 484 579 991 1243 1388 1514 1557 1647 1782 1791 2061 2099 2120 2263 2353 2416 3047 3278 3290 3295 3304 3313 3321 3323 3324 3334 
+	}
+	history={
+		owner = TRB
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

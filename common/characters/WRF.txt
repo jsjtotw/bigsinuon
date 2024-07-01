@@ -1,0 +1,65 @@
+characters = {
+#Create country leader - Moderate Ruler
+moderate_ruler = {
+	name = moderate_ruler
+	portraits = {
+		civilian = {
+			#Custom image for Moderate Ruler
+			large = "/gfx/leaders/WRF/iBfrpRby-1.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = {  }
+	}
+}
+
+#Create country leader - Fascist Ruler
+fascist_ruler = {
+	name = fascist_ruler
+	portraits = {
+		civilian = {
+			#Custom image for Fascist Ruler
+			large = "/gfx/leaders/WRF/uFoXAcep-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+
+#Create country leader - Democratic Ruler
+democratic_ruler = {
+	name = democratic_ruler
+	portraits = {
+		civilian = {
+			#Custom image for Democratic Ruler
+			large = "/gfx/leaders/WRF/JGiujFZh-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = socialism
+		traits = {  }
+	}
+}
+
+#Create country leader - Mihama Chiyo
+mihama_chiyo = {
+	name = mihama_chiyo
+	portraits = {
+		civilian = {
+			#Custom image for Mihama Chiyo
+			large = "/gfx/leaders/WRF/ATKlDfCN-676606.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = stalinism
+		traits = {  }
+	}
+}
+}

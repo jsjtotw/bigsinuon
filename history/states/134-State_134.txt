@@ -1,0 +1,18 @@
+
+state={
+	id=134
+	name="STATE_134"
+
+	history={
+		owner = TRG
+
+	}
+
+	provinces={
+		227 628 844 1474 2445 2452 2514 2545 2797 3610 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

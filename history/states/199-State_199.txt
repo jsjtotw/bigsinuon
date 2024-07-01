@@ -1,0 +1,18 @@
+
+state={
+	id=199
+	name="STATE_199"
+
+	history={
+		owner = CRE
+
+	}
+
+	provinces={
+		234 686 879 1018 1062 2129 2240 2330 2624 2730 3825 3826 3844 3853 3863 3889 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

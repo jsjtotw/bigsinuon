@@ -1,0 +1,65 @@
+characters = {
+#Create country leader - Juliana Gomes
+juliana_gomes = {
+	name = juliana_gomes
+	portraits = {
+		civilian = {
+			#Custom image for Juliana Gomes
+			large = "/gfx/leaders/CST/cBsUePdZ-9405.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = stalinism
+		traits = {  }
+	}
+}
+
+#Create country leader - Juliana Carvalho
+juliana_carvalho = {
+	name = juliana_carvalho
+	portraits = {
+		civilian = {
+			#Custom image for Juliana Carvalho
+			large = "/gfx/leaders/CST/PEqmHtdK-9405.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = fascism_ideology
+		traits = {  }
+	}
+}
+
+#Create country leader - David Solomon
+david_solomon = {
+	name = david_solomon
+	portraits = {
+		civilian = {
+			#Custom image for David Solomon
+			large = "/gfx/leaders/CST/skrXfdVq-9405.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = moderatism
+		traits = {  }
+	}
+}
+
+#Create country leader - Steffan Heinrich
+steffan_heinrich = {
+	name = steffan_heinrich
+	portraits = {
+		civilian = {
+			#Custom image for Steffan Heinrich
+			large = "/gfx/leaders/CST/tGspuHYg-9405.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = socialism
+		traits = {  }
+	}
+}
+}

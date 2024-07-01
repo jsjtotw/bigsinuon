@@ -1,0 +1,13 @@
+state={
+	id=122
+	name="STATE_122"
+	provinces={
+		5 366 566 636 696 706 810 1079 1135 1300 1410 1426 1589 1860 1995 2029 2155 2166 2188 2791 2914 2931 3050 3521 3528 3536 3537 3544 3545 3550 3563 3571 
+	}
+	history={
+		owner = GGR
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

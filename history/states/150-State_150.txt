@@ -1,0 +1,18 @@
+
+state={
+	id=150
+	name="STATE_150"
+
+	history={
+		owner = WRF
+
+	}
+
+	provinces={
+		915 1072 2449 2476 3652 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

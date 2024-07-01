@@ -1,0 +1,13 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		141 264 306 326 1033 1888 1908 2091 2145 2552 3892 3926 
+	}
+	history={
+		owner = CRE
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

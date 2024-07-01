@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Warshon Tudarma
+warshon_tudarma = {
+	name = warshon_tudarma
+	portraits = {
+		civilian = {
+			#Custom image for Warshon Tudarma
+			large = "/gfx/leaders/CRE/fDNekObZ-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = socialism
+		traits = {  }
+	}
+}
+}

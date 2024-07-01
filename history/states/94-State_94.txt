@@ -1,0 +1,18 @@
+
+state={
+	id=94
+	name="STATE_94"
+
+	history={
+		owner = GGA
+
+	}
+
+	provinces={
+		31 337 678 861 912 947 1297 1508 1610 1627 1719 1930 2035 2217 2288 2303 2341 2371 2385 2698 2724 3406 3419 3423 3428 3429 3432 3437 3441 3446 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

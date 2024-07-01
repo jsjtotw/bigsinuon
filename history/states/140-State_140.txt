@@ -1,0 +1,18 @@
+
+state={
+	id=140
+	name="STATE_140"
+
+	history={
+		owner = WRF
+
+	}
+
+	provinces={
+		26 274 328 404 654 954 1398 1416 1688 2394 2562 2872 2990 2998 3584 3593 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

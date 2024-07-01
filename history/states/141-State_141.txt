@@ -1,0 +1,18 @@
+
+state={
+	id=141
+	name="STATE_141"
+
+	history={
+		owner = TRG
+
+	}
+
+	provinces={
+		160 189 331 417 600 1014 1609 1845 1899 2239 2462 2866 3618 3623 3625 3641 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

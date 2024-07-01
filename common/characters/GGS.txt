@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Lavrenti Nikolayev
+lavrenti_nikolayev = {
+	name = lavrenti_nikolayev
+	portraits = {
+		civilian = {
+			#Custom image for Lavrenti Nikolayev
+			large = "/gfx/leaders/GGS/jRcgHGCS-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+}

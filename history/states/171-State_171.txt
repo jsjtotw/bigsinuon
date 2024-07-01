@@ -1,0 +1,13 @@
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		605 876 904 1231 1344 1365 1498 1745 1794 2148 2465 2489 2682 2728 2894 2916 3013 3051 3679 3699 3733 
+	}
+	history={
+		owner = WRF
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

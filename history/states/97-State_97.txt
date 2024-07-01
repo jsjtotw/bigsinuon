@@ -1,0 +1,18 @@
+
+state={
+	id=97
+	name="STATE_97"
+
+	history={
+		owner = GGA
+
+	}
+
+	provinces={
+		339 406 1121 1215 1854 1872 1974 2478 3058 3401 3408 3412 3417 3418 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

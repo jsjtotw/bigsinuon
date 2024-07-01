@@ -1,0 +1,13 @@
+state={
+	id=15
+	name="STATE_15"
+	provinces={
+		144 157 348 410 499 537 542 767 1034 1126 1779 2025 2048 2064 2170 2276 2328 2544 2731 2947 3102 3113 3114 3119 
+	}
+	history={
+		owner = NVA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}
